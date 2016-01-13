@@ -1,0 +1,2 @@
+# whrgrechner
+App für Währungsrechnung
